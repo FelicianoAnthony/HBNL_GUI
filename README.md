@@ -31,6 +31,6 @@
 ![alt text](screenshots/2_duplicates.png)
 
 ### Example 2
-> batch process specific information found in subject file 
+> batch process specific information found in subject file & store as data frame for easy access.  Data omitted for confidentiality reasons.  
 
 ![alt text](screenshots/3_parse_xml.png)
