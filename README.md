@@ -9,24 +9,28 @@
 
 
 
-> GUI features error handling, date/time/user logs of any data reviewed, & is run from a shell script activating a virtual environment.      
+> GUI features multiple tabs corresponding to different points in data pipeline, error handling, date/time/user logs of any data reviewed, & options to exclude subject directories.      
 
 
 
 ## ERP GUI
 ### Example 1
+> batch process raw brain wave data files to averaged (human-readable) brain wave files for specific experiment combinations in particular subject folders
 
 ![alt text](screenshots/erp_3_peak_picking.png)
 
-## #Example 2
+## Example 2
+> batch process data by checking for consistency with previous longitudinal data, duplicates, correct file naming system, and more. 
 
 ![alt text](screenshots/erp_1_review_data.png)
 
 ## Neuropsych GUI 
 ### Example 1  
+> batch process data by checking for consistency with previous longitudinal data, duplicates, correct file naming system, and more. 
 
 ![alt text](screenshots/2_duplicates.png)
 
-### Example 2  
+### Example 2
+> batch process specific information found in subject file 
 
 ![alt text](screenshots/3_parse_xml.png)
